@@ -1,5 +1,5 @@
-#Notice
-#Looking for music contributors 🎧
+# Notice
+## Looking for music contributors 🎧
 If you’re a music artist and want to collaborate on Voidflower, I’d love to work with you.
 This is a free indie project, so contributions are voluntary and credited.
 # Voidflower
