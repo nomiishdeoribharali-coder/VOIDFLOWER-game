@@ -166,6 +166,26 @@ Built with Pygame. Sound effects from FreeSFX GameSFX library. Fonts: SF Arborcr
 - Camera and viewport system
 - Bloom post-processing effect
 
+'''
+In the sacred realm of VOIDFLOWER lore, where gravity is optional and common sense has been permanently patched out, there exists a prophecy spoken only in lag spikes: “he who presses E in confusion shall ascend without permission.” Nobody knows what it means, but everyone agrees it goes hard.
+
+The ancient NPC known as “Sus Sage #404” once whispered: “bro i was built different but the build got nerfed in the tutorial stage 💀.” After saying this, he immediately clipped through reality and became a background texture.
+
+Legends say the sky is actually just a giant loading screen that never finishes because someone somewhere is speedrunning existence with airplane mode on. If you stare at it too long, you can hear the UI yelling “PLEASE WAIT…” in 240p audio.
+
+There is also a forbidden weapon called the “Scroll of Mid Energy.” Whoever equips it instantly gains +50 aura loss but +100 comedic timing. Side effects include speaking exclusively in lowercase and accidentally emoting in real life.
+
+In the deep zones of the map, players report encountering the entity known as “Rizzler of the Void,” who approaches slowly and says only: “u good?” If you answer, your save file becomes emotionally unavailable.
+
+The economy of the world is based entirely on vibes and expired motivation. One coin equals approximately three braincells and a dream. Trading is prohibited unless both parties are actively confused.
+
+At random intervals, the game triggers an event called “Group Chat Judgment Day,” where all enemies stop attacking and instead start rating your gameplay like it’s a TikTok comment section from hell.
+
+The final boss is rumored to be your own past self, but with better aim, better sleep schedule, and significantly worse internet connection. Defeating it unlocks the achievement: “I survived my own delulu arc.”
+
+And at the very end of everything, the system displays one final message in glitching neon text: “skill issue detected… but honestly same.”
+'''
+
 **v0.1.0 — Genesis**
 - Initial Pygame setup
 - Window and game loop
