@@ -309,7 +309,7 @@ Requires matching gem substance (purchased from dealers) + wood + coins.
 - Camera and viewport system
 - Bloom post-processing effect
 
-'''
+```
 In the sacred realm of VOIDFLOWER lore, where gravity is optional and common sense has been permanently patched out, there exists a prophecy spoken only in lag spikes: “he who presses E in confusion shall ascend without permission.” Nobody knows what it means, but everyone agrees it goes hard.
 
 The ancient NPC known as “Sus Sage #404” once whispered: “bro i was built different but the build got nerfed in the tutorial stage 💀.” After saying this, he immediately clipped through reality and became a background texture.
@@ -327,7 +327,7 @@ At random intervals, the game triggers an event called “Group Chat Judgment Da
 The final boss is rumored to be your own past self, but with better aim, better sleep schedule, and significantly worse internet connection. Defeating it unlocks the achievement: “I survived my own delulu arc.”
 
 And at the very end of everything, the system displays one final message in glitching neon text: “skill issue detected… but honestly same.”
-'''
+```
 
 **v0.1.0 — Genesis**
 - Initial Pygame setup
