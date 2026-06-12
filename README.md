@@ -169,6 +169,65 @@ Music and themes featured or inspired by:
 ## Credits
 
 Built with Pygame. Sound effects from FreeSFX GameSFX library. Fonts: SF Arborcrest Medium, VCR OSD Mono.
+## Weapons
+
+60 unique weapons across 7 categories and tiers 1–6, plus 300+ gem-infused variants.
+
+### Weapon Types
+
+| Type | Category | Examples |
+|------|----------|----------|
+| Dagger | Melee | Rusty Dagger, Shadow Dagger, Widowmaker |
+| Sword | Melee | Worn Shortsword, Katana, Red Blade |
+| Greatsword | Melee | Battle Axe, Soul Render, Godslayer |
+| Spear | Melee | Broken Spear, Void Spear, Worldsplitter |
+| Scythe | Melee | Scythe of Thorns, Twilight Scythe, Quietus |
+| Staff | Magic | Cracked Staff, Eldritch Staff, Infinite Staff |
+| Wand | Magic | Twig Wand, Flame Wand, Eternal Wand |
+| Bow | Ranged | Makebow, Storm Bow, Phoenix Bow |
+| Chakram | Ranged | Chipped Chakram, Chaos Chakram, Infinity Chakram |
+| Void Blade | Melee | Void Arbiter, Voidheart, Heretic's Blade |
+| Cursed Blade | Melee | Cursed Blade, Soul Eater |
+| Forbidden Fruit | Magic | Forbidden Fruit |
+
+### Tiers & Scaling
+
+| Tier | Rarity | Damage Range | Magic Range |
+|------|--------|--------------|-------------|
+| 1 | Common | 2–7 | 0–4 |
+| 2 | Uncommon | 8–16 | 0–8 |
+| 3 | Rare | 15–24 | 2–14 |
+| 4 | Epic | 26–40 | 4–24 |
+| 5 | Legendary | 38–64 | 6–34 |
+| 6 | Mythic | 52–100 | 8–52 |
+
+### Special Effects
+
+| Effect | Description |
+|--------|-------------|
+| `life_steal` | Heals the wielder on hit |
+| `void_brand` | Leaves void damage over time |
+| `magic_boost` | Amplifies spell damage |
+| `crit_up` | Increases critical hit chance |
+| `armor_pierce` | Ignores a portion of enemy defense |
+| `burn` | Applies fire damage over time |
+| `chain` | Attacks chain to nearby enemies |
+| `defense_up` | Grants temporary defense buff |
+
+### Gem Infusion System
+
+Any craftable weapon can be infused with 6 gem types via crafting:
+
+| Gem | Damage | Magic | Crit | Speed | Defense |
+|-----|--------|-------|------|-------|---------|
+| Ruby | +40% | +10% | +10% | — | — |
+| Sapphire | +30% | +25% | +5% | +1% | — |
+| Emerald | +20% | +40% | +5% | +1% | — |
+| Diamond | +50% | +20% | +15% | +2% | +1 |
+| Gold | +60% | +10% | +10% | +3% | +1 |
+| Void | +100% | +80% | +30% | +4% | +2 |
+
+Requires matching gem substance (purchased from dealers) + wood + coins.
 
 ## Author
 
