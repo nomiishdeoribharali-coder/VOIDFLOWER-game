@@ -1,3 +1,7 @@
+#Notice
+#Looking for music contributors 🎧
+If you’re a music artist and want to collaborate on Voidflower, I’d love to work with you.
+This is a free indie project, so contributions are voluntary and credited.
 # Voidflower
 
 A top-down action RPG built with Pygame by **Nomiish Deori Bharali**. Fight through hordes of enemies, craft weapons, infuse them with rare gem substances, and survive boss encounters.
