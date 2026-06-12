@@ -1,7 +1,24 @@
 # Notice
-## Looking for music contributors 🎧
+### Looking for music contributors 🎧
 If you’re a music artist and want to collaborate on Voidflower, I’d love to work with you.
 This is a free indie project, so contributions are voluntary and credited.
+### Contributors welcome
+Voidflower is an open indie game project. If you're interested in contributing (programming, gameplay systems, tools, UI, etc.), feel free to reach out or open a PR.
+### 💡 Ideas & Suggestions
+
+Voidflower is an evolving indie project.
+If you have ideas for gameplay mechanics, enemies, bosses, systems, or improvements, feel free to open an issue or leave suggestions.
+Voidflower prioritizes gameplay responsiveness and player feedback over rigid design direction.
+The project evolves based on real player experience, not top-down assumptions.
+Please keep ideas:
+
+1. specific (not just “add more stuff”)
+1. relevant to gameplay systems or balance
+1. consistent with the tone of the game
+
+All good suggestions may be considered for future updates.
+All contributors will be credited.
+
 # Voidflower
 
 A top-down action RPG built with Pygame by **Nomiish Deori Bharali**. Fight through hordes of enemies, craft weapons, infuse them with rare gem substances, and survive boss encounters.
