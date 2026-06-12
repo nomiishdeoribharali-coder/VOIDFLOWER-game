@@ -82,6 +82,90 @@ Music and themes featured or inspired by:
 - **The Pain of Recalling Memories of an Empty Life**
 - **Working Overtime** — *Jujutsu Kaisen*
 
+## Characters
+
+### NPCs
+
+| Name | Role | Description |
+|------|------|-------------|
+| **Fruit Girl** | Healer | Sells fresh fruits that restore HP. Cheerful and always has a basket of sunshine for travelers. |
+| **Good Witch** | Healer | Brews health potions under full moons. Her cauldron bubbles with nothing but good intentions. |
+| **Herb Lady** | Healer | Forages deep woods for healing herbs. Knows every plant by its scent and secret. |
+| **Milk Maid** | Healer | Sells fresh milk and dairy. A simple farm life, but she wouldn't trade it for anything. |
+| **Dealer** | Merchant | Sells weapons, consumables, and gem substances. Robed figure with golden eyes. |
+| **Quest Giver** | Quest NPC | Assigns bounties and rewards coins for completed tasks. |
+
+### Enemies
+
+#### Tier 1 — Basic Void Wildlife
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Void Mite | Wander | Touch | — |
+| Ash Crawler | Ambush | Touch | — |
+| Hollow Sprout | Stationary | Spores | — |
+| Drift Slime | Chase | Touch | Splits on death |
+| Static Rat | Teleport | Touch | — |
+
+#### Tier 2 — Hunter Creatures
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Void Hound | Chase | Melee | — |
+| Lantern Leech | Ambush | Leech | — |
+| Echo Stalker | Chase | Melee | Invisible |
+| Thorn Wisp | Kite | Projectile | — |
+| Broken Sentinel | Chase | Melee | — |
+
+#### Tier 3 — Corrupted Entities
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Petal Reaper | Chase | Melee | — |
+| Memory Husk | Copy | Touch | — |
+| Rift Walker | Teleport | Melee | — |
+| Ink Parasite | Burst | Leech | — |
+| Bloom Wraith | Phase Wander | Touch | Phases through walls |
+
+#### Tier 4 — Void Intelligence
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Void Strategist | Kite | None | Buff aura |
+| Fragment Clone | Copy | Melee | — |
+| Data Leech | Chase | Slow | — |
+| Silent Executioner | Burst | Burst | — |
+| Root Network Node | Stationary | Summon | Spawns minions |
+
+#### Tier 5 — Elite / Mini-Bosses
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Withered Gardener | Kite | Summon | Regenerates |
+| Hollow Bloom Beast | Chase | Poison | — |
+| Rift Colossus | Chase | AoE | — |
+| Mirror Warden | Orbit | Beam | Illusions |
+| Seedless King | Teleport | Pulse | — |
+
+#### Tier 6 — World Events / Rare Entities
+| Name | AI | Attack | Traits |
+|------|----|--------|--------|
+| Void Bloom Storm | Hazard | Poison | — |
+| Wanderer of Nothing | Flee | None | Rare |
+| Broken God Shard | Orbit | Beam | Rare |
+| Glitch Angel | Teleport | Touch | Heal aura, Rare |
+| Quiet Root | Stationary | None | Rare, Invincible |
+
+### Bosses (Emotion Bosses)
+
+| Name | Tier | HP | Attack | Theme |
+|------|------|----|--------|-------|
+| **Sorrow** | 5 | 1,000 | Tears | *The Sorrow Theme* — MGS3 |
+| **Joy** | 5 | 1,200 | Laugh | Battle Theme 2 |
+| **Fear** | 5 | 1,500 | Tendrils | Battle Theme 3 |
+| **Pain** | 5 | 2,500 | Thorns | Battle Theme 4 |
+| **Rage** | 6 | 4,000 | Rage | Battle Theme 5 |
+| **Envy** | 6 | 3,000 | Copy | Battle Theme 6 |
+| **Disgust** | 6 | 5,000 | Ooze | Battle Theme 7 |
+| **Grief** | 6 | 4,500 | Sob | Battle Theme 8 |
+| **Hope** | 6 | 7,000 | Heal | Battle Theme 9 |
+| **Despair** | 6 | 9,000 | Void | Battle Theme 10 |
+
 ## Credits
 
 Built with Pygame. Sound effects from FreeSFX GameSFX library. Fonts: SF Arborcrest Medium, VCR OSD Mono.
